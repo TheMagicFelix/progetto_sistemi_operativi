@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "progetto_sistemi_operativi",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "progetto_sistemi_operativi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-progetto_sistemi_operativi-Debug-c1c9f397e3380eef8a01.json",
+					"name" : "progetto_sistemi_operativi",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/felix/Desktop/felix/universit\u00e0/III_anno/progetto_sistemi_operativi/cmake-build-debug",
+		"source" : "/home/felix/Desktop/felix/universit\u00e0/III_anno/progetto_sistemi_operativi"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

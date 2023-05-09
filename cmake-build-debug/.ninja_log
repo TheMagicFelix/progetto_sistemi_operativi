@@ -1,0 +1,10 @@
+# ninja log v5
+176	277	1683362958007590128	CMakeFiles/progetto_sistemi_operativi.dir/F4Client.c.o	5770d8e77898d47
+1	78	1683557922215382891	build.ninja	a430a595dd527e6
+1406	1445	1683361030847300670	CMakeFiles/progetto_sistemi_operativi.dir/debug.c.o	78fb6ce5238dd56f
+440	552	1683362958283588545	CMakeFiles/progetto_sistemi_operativi.dir/semaphore.c.o	83f0e544ba001c18
+278	351	1683362958083589693	CMakeFiles/progetto_sistemi_operativi.dir/F4Server.c.o	742d9ef03af9743b
+552	628	1683362958359588109	CMakeFiles/progetto_sistemi_operativi.dir/shared_memory.c.o	82dbdaa3dba88de4
+92	176	1683362957907590702	CMakeFiles/progetto_sistemi_operativi.dir/err_exit.c.o	9d627dccd8e5109b
+0	92	1683362957823591184	CMakeFiles/progetto_sistemi_operativi.dir/defines.c.o	a9c8e31a5ca4f604
+352	439	1683362958171589188	CMakeFiles/progetto_sistemi_operativi.dir/fifo.c.o	736df47774b9da72
