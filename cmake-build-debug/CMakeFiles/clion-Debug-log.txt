@@ -1,4 +1,10 @@
-/snap/clion/235/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/235/bin/ninja/linux/x64/ninja -G Ninja -S /home/felix/Desktop/felix/università/III_anno/progetto_sistemi_operativi -B /home/felix/Desktop/felix/università/III_anno/progetto_sistemi_operativi/cmake-build-debug
+"C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.1.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\ricca\Desktop\Riccardo\università\III_anno\progetto_sistemi_operativi -B C:\Users\ricca\Desktop\Riccardo\università\III_anno\progetto_sistemi_operativi\cmake-build-debug
+-- The C compiler identification is GNU 11.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/JetBrains/CLion 2023.1.1/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/felix/Desktop/felix/università/III_anno/progetto_sistemi_operativi/cmake-build-debug
+-- Build files have been written to: C:/Users/ricca/Desktop/Riccardo/università/III_anno/progetto_sistemi_operativi/cmake-build-debug

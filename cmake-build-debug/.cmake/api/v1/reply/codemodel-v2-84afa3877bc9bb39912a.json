@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.25"
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "progetto_sistemi_operativi::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-progetto_sistemi_operativi-Debug-c1c9f397e3380eef8a01.json",
+					"jsonFile" : "target-progetto_sistemi_operativi-Debug-6ed905d42b9489fa0248.json",
 					"name" : "progetto_sistemi_operativi",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/felix/Desktop/felix/universit\u00e0/III_anno/progetto_sistemi_operativi/cmake-build-debug",
-		"source" : "/home/felix/Desktop/felix/universit\u00e0/III_anno/progetto_sistemi_operativi"
+		"build" : "C:/Users/ricca/Desktop/Riccardo/universit\u00e0/III_anno/progetto_sistemi_operativi/cmake-build-debug",
+		"source" : "C:/Users/ricca/Desktop/Riccardo/universit\u00e0/III_anno/progetto_sistemi_operativi"
 	},
 	"version" : 
 	{

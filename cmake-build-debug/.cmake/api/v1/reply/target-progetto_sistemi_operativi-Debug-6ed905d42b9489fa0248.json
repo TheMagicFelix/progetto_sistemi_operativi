@@ -2,7 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "progetto_sistemi_operativi"
+			"path" : "progetto_sistemi_operativi.exe"
+		},
+		{
+			"path" : "progetto_sistemi_operativi.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -52,7 +55,7 @@
 			[
 				{
 					"backtrace" : 2,
-					"path" : "/home/felix/Desktop/felix/universit\u00e0/III_anno/progetto_sistemi_operativi/."
+					"path" : "C:/Users/ricca/Desktop/Riccardo/universit\u00e0/III_anno/progetto_sistemi_operativi/."
 				}
 			],
 			"language" : "C",
@@ -89,12 +92,16 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
 			}
 		],
 		"language" : "C"
 	},
 	"name" : "progetto_sistemi_operativi",
-	"nameOnDisk" : "progetto_sistemi_operativi",
+	"nameOnDisk" : "progetto_sistemi_operativi.exe",
 	"paths" : 
 	{
 		"build" : ".",

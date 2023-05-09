@@ -1,3 +1,3 @@
-/home/felix/Desktop/felix/università/III_anno/progetto_sistemi_operativi/cmake-build-debug/CMakeFiles/progetto_sistemi_operativi.dir
-/home/felix/Desktop/felix/università/III_anno/progetto_sistemi_operativi/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/felix/Desktop/felix/università/III_anno/progetto_sistemi_operativi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ricca/Desktop/Riccardo/università/III_anno/progetto_sistemi_operativi/cmake-build-debug/CMakeFiles/progetto_sistemi_operativi.dir
+C:/Users/ricca/Desktop/Riccardo/università/III_anno/progetto_sistemi_operativi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ricca/Desktop/Riccardo/università/III_anno/progetto_sistemi_operativi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
